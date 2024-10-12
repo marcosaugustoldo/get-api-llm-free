@@ -4,6 +4,8 @@
 
 In this tutorial, you will learn how to obtain LLM (Large Language Model) API keys for use in AnythingLLM. LLMs are language models that can be used to generate text, summarize articles, translate text, and more. API keys are required to access these models and use them in our applications.
 
+[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuDvlNDmDGF5QwPETEs3eh7RHNGmKBpgwyw&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuDvlNDmDGF5QwPETEs3eh7RHNGmKBpgwyw&s)
+
 ## Obtaining the OpenAI API Key
 
 OpenAI is one of the main LLM providers and offers a wide range of language models. To obtain the OpenAI API key, follow these steps:
@@ -21,6 +23,8 @@ OpenAI is one of the main LLM providers and offers a wide range of language mode
 
 The OpenAI API is one of the most efficient for use in the AnythingLLM embedder. It offers a wide range of language models and is very easy to use. Additionally, OpenAI offers a free plan that includes 100,000 tokens per month, which is sufficient for most applications.
 
+[https://raw.githubusercontent.com/RMNCLDYO/groq-ai-toolkit/main/.github/groq-logo.png](https://raw.githubusercontent.com/RMNCLDYO/groq-ai-toolkit/main/.github/groq-logo.png)
+
 ## Obtaining the Groq API Key
 
 Groq is another LLM provider that offers a wide range of language models. To obtain the Groq API key, follow these steps:
@@ -34,6 +38,8 @@ Groq is another LLM provider that offers a wide range of language models. To obt
 7. Select the type of API key you want to create (e.g., "API key for general use").
 8. Copy the generated API key and store it in a safe location.
 
+[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/640px-Google_Gemini_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/640px-Google_Gemini_logo.svg.png)
+
 ## Obtaining the Gemini API Key
 
 Gemini is an LLM provider that offers a wide range of language models. To obtain the Gemini API key, follow these steps:
@@ -46,6 +52,8 @@ Gemini is an LLM provider that offers a wide range of language models. To obtain
 6. Click on "Create API key" on the left side of the page.
 7. Select the type of API key you want to create (e.g., "API key for general use").
 8. Copy the generated API key and store it in a safe location.
+
+[https://dbdb.io/media/logos/qdrant.svg](https://dbdb.io/media/logos/qdrant.svg)
 
 ## Obtaining the Qdrant Endpoint and API
 
